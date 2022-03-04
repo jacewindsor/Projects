@@ -1,0 +1,22 @@
+BY SUBMITTING THIS FILE TO CARMEN I CERTIFY THAT I STRICTLY ADHERED TO THE
+TENURES OF THE OHIO STATE UNIVERSITIES ACADEMIC INTEGRITY POLICY
+THIS IS THE LAB 4 README
+
+Jace Windsor
+
+Approx. Time 4hrs(2/15) 4hrs(2/23) 2hrs(2/26) 3hrs(2/28) 3hrs(3/2) 12.5hrs(3/3) totaling 28.5 hours programming time
+
+Riley helped me figure out some syntax issues and also showed me new ways of thinking about iteration and switch/case
+methods. I was extremely overwhelmed when I first started this lab and it proved to be no easy task, but I was able
+to focus on it much more after the midterms of my other classes were finished. I don't think I would've completed this
+lab without the extra time we were given for it, so I am extremely appreciative of that.
+
+As far as using gdb to find bugs, there was no shortage. Many of the issues I faced early on came from improperly 
+allocation and delcaring the node pointers. I was able to find a fix for those. Then I was having an issue with an
+fscanf to read data, which was revealed to be storing in the wrong variable and not fully reading due to a missing ^.
+I found out about the backtrace command for the first time on this lab as well which would've come in useful in 
+the previous labs. I am unsure if this was one of the ones we went over in the past, but I am glad to have discovered
+its functionality now for what I will do in the future.
+
+Overall, I learned a lot in this lab and found it to be very mentally stimulating if not a bit overwhelming at times,
+but I ultimately am glad that I made the time to do it.
