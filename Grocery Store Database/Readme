@@ -1,9 +1,0 @@
-This project required the development of a database for a grocery store via a singly linked list in C.
-
-There were many requirements imposed by the instructor, including a 10 line limit (for most cases) on functions, file splitting, no global variables, etc.
-Some common practices in industry (e.g. checking if a malloc was successful) were not required and would stress the 10 line limit, so I opted to forego these
-considering the circumstances.
-
-The program parses an inventory file and stores the information. 12 options are given for the user to manipulate the database and retrieve information about it.
-A Makefile is included for the compilation of the project. 
-
